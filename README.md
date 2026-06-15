@@ -1,14 +1,16 @@
 [查看 AgriPriceFlow AI 專題提案 PDF](<AgriPriceFlow AI 專題提案.pdf>)
 
+
+## 專題資訊圖表
+
+![AgriPriceFlow AI 專題資訊圖表](<AgriPriceFlow AI資訊圖表.png>)
+
 # AgriFlow AI 資料抓取範例
 
 本範例透過農業部農業資料開放平臺的「農產品交易行情」API，將行情資料逐頁抓取後存入 SQLite，並可同步匯出 CSV。
 
 資料來源：[農業部農業資料開放平臺－農產品交易行情](https://data.moa.gov.tw/open_detail.aspx?id=037)
 
-## 專題資訊圖表
-
-![AgriPriceFlow AI 專題資訊圖表](<AgriPriceFlow AI資訊圖表.png>)
 
 ## 目前資料是否足夠
 
